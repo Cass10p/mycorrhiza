@@ -20,7 +20,7 @@ msgstr ""
 #. $gettext('(Original size is %1)', bookbuilder.api_collection_data()
 #: src/components/BookBuilderView.vue:791
 msgid "(Original size is %1)"
-msgstr ""
+msgstr "(la "
 
 #. $gettext('Add')
 #: src/components/UserCreation.vue:134
